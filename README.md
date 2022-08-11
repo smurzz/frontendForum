@@ -1,6 +1,26 @@
+# frontendForum-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## General info
+This is the frontend for the forum web page where you can log in, register via email confirmation, create a forum and create a message for that. The web page works in combination with the backend and MongoDB database.
+
+## Technologies
+Project is created with:
+* axios version: 0.27.2
+* bootstrap version: 5.1.3
+* jwt-decode version: 3.1.2"
+* react: 18.2.0
+* react-bootstrap: 2.4.0
+* react-dom: 18.2.0
+* react-icons: 4.4.0
+* react-redux: 8.0.2
+* react-router-bootstrap: 0.26.1
+* react-router-dom: 6.3.0
+* redux: 4.2.0
+* redux-thunk: 2.4.1
 
 ## Available Scripts
 
